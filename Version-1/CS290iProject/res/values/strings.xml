@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CS290iProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="projectDescription">Image Retargeting \nProject</string>
+    
+	<string name="loadNProcessButtonText">Load Image &amp; Process</string>
+	<string name="cameraCaptureNProcessButtonText">Camera Capture &amp; Process</string>
+	<string name="exitButtonText">Exit</string>
+	
+    
+	
+</resources>
